@@ -1,0 +1,1 @@
+# Laboratory_works_GUI_PyQt5
